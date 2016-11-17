@@ -1,0 +1,15 @@
+BEGIN:VCARD
+VERSION:3.0
+N:Taylor;Adwoa;;;
+FN:Adwoa Taylor
+ORG:David Barrett Partners;
+EMAIL;type=INTERNET;type=WORK;type=pref:ataylor@davidbarrettpartners.com
+item1.TEL;type=pref:212-710-8840
+item1.X-ABLabel:general
+item2.TEL:212-710-8845
+item2.X-ABLabel:direct
+item3.ADR;type=WORK;type=pref:;;230 Park Avenue\, Suite 450;New York;NY ;10169;United States
+item3.X-ABADR:us
+CATEGORIES:David Barrett
+X-ABUID:1E747F06-989C-47FE-B86D-62B26ADA4608\:ABPerson
+END:VCARD

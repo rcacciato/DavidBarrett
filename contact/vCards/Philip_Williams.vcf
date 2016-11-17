@@ -1,0 +1,13 @@
+BEGIN:VCARD
+VERSION:3.0
+PRODID:-//Apple Inc.//Mac OS X 10.10.3//EN
+N:Williams;Philip;;;
+FN:Philip Williams
+ORG:David Barrett Partners;
+EMAIL;type=INTERNET;type=WORK;type=pref:pwilliams@davidbarrettpartners.com
+TEL;type=WORK;type=VOICE;type=pref:+852.3974.8579
+TEL;type=CELL;type=VOICE:+852.638.99914
+item1.ADR;type=WORK;type=pref:;3A Chater Road\, Central;Level 16\, The Hong Kong Club Building;Hong Kong;;;
+item1.X-ABADR:us
+X-ABUID:917ABD7F-B462-4EC0-95E0-F1BC0C3BB0D8
+END:VCARD

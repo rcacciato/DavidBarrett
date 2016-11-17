@@ -1,0 +1,42 @@
+<?php $title='Thank You for Contacting Us'; $page_id="contact"; include ('../includes/header.php'); ?>
+	
+<div class="section" id="main">
+	
+	<p class="img"><img src="/images/contact_photo.jpg" alt="Contact Us"></p>
+	
+	<div class="l_col">
+	
+		<p>Thank you for contacting us.</p>
+		
+	</div>
+	
+	<div class="r_col">
+		<h3 class="ny_head">New York</h3>
+		<ul>
+			<li><strong>+1.212.710.8840</strong></li>
+			<li>David Barrett</li>
+			<li>Darryl Adachi</li>
+			<li>Neil Callaghan</li>
+			<li>Ted Kister</li>
+			<li>Laura Pollock</li>
+			<li>Adwoa Taylor</li>
+		</ul>
+		
+		<h3 class="lon_head">London</h3>
+		<ul>
+			<li><strong>+144.20.3170.5774</strong></li>
+			<li>Tory Hyndman</li>
+			<li>Harriet Hyde</li>
+		</ul>
+		
+		<h3 class="bos_head">Boston</h3>
+		<ul>	
+			<li><strong>+1.617.491.1115</strong></li>
+			<li>Anne Keyser</li>
+		</ul>
+		
+	</div>
+
+</div>
+
+<?php include ('/includes/footer.php'); ?>

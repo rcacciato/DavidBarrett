@@ -1,0 +1,15 @@
+BEGIN:VCARD
+VERSION:3.0
+PRODID:-//Apple Inc.//Mac OS X 10.11.6//EN
+N:Keyser;Anne;;;
+FN:Anne Keyser
+ORG:David Barrett Partners;
+EMAIL;type=INTERNET;type=WORK;type=pref:akeyser@davidbarrettpartners.com
+item1.TEL;type=pref:+1 (617) 491-1115
+item1.X-ABLabel:direct
+ADR;type=WORK;type=pref:;;53 State Street\, 13th Floor;Boston;MA;02109;United States
+item2.URL;type=pref:www.davidbarrettpartners.com
+item2.X-ABLabel:_$!<HomePage>!$_
+UID:5f69835a16246d76
+X-ABUID:268F7FA9-9CD1-43D7-8DAD-FB51C219BF7C:ABPerson
+END:VCARD

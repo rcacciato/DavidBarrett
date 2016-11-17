@@ -1,0 +1,13 @@
+
+
+#team .lineup li:hover  {	
+	-ms-filter:"progid:DXImageTransform.Microsoft.Alpha(Opacity=90)";
+}
+
+#team .lineup li h4 {
+	background: #003D79;
+}
+
+#team .control p {
+	font-size: .76em;
+}

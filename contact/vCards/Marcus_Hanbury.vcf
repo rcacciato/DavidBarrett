@@ -1,0 +1,14 @@
+BEGIN:VCARD
+VERSION:3.0
+PRODID:-//Apple Inc.//Mac OS X 10.11.6//EN
+N:Hanbury;Marcus;;;
+FN:Marcus Hanbury
+EMAIL;type=INTERNET;type=WORK;type=pref:mhanbury@davidbarrettpartners.com
+item1.TEL;type=pref:442031705776
+item1.X-ABLabel:general
+ADR;type=WORK;type=pref:;;16 Old Queen Street;London;SW1H;9HP;England
+item2.URL;type=pref:www.davidbarrettpartners.com
+item2.X-ABLabel:_$!<HomePage>!$_
+UID:5ac9f67e1589bb2e
+X-ABUID:9C2647F8-9825-4869-A3B7-01BE53D6CD40:ABPerson
+END:VCARD

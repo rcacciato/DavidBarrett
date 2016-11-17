@@ -1,0 +1,11 @@
+BEGIN:VCARD
+VERSION:3.0
+N:Byrne;Jana;;;
+FN:Jana Byrne
+ORG:David Barrett Partners;
+EMAIL;type=INTERNET;type=WORK;type=pref:jbyrne@davidbarrettpartners.com
+item1.TEL;type=pref:805-687-2727
+item1.X-ABLabel:direct
+CATEGORIES:David Barrett
+X-ABUID:65273AC1-573C-414E-A3E5-9B67CDA8A8F5\:ABPerson
+END:VCARD

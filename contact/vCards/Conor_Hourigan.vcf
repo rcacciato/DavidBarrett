@@ -1,0 +1,12 @@
+BEGIN:VCARD
+VERSION:3.0
+N:Hourigan;Conor;;;
+FN:Conor Hourigan
+EMAIL;type=INTERNET;type=WORK;type=pref:chourigan@davidbarrettpartners.com
+item1.TEL;type=pref:+1-212-710-8840
+item1.X-ABLabel:general
+item2.ADR;type=WORK;type=pref:;;230 Park Avenue\, Suite 450;New York;NY;10169;United States
+item2.X-ABADR:us
+CATEGORIES:David Barrett
+X-ABUID:46220B72-6015-4034-B502-0DDCCDE14956\:ABPerson
+END:VCARD

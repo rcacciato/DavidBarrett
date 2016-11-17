@@ -1,0 +1,101 @@
+#team #main.section,
+#team .lineup,
+#approach #main.section,
+#media .headshots,
+#press #main.section,
+#media #main.section,
+.footer,
+.footer #locations,
+#main.nav li { min-height: 1px; }
+#main.nav, .header { z-index: 5000; }
+#main.nav li,
+.nav a { 
+	float: left; 
+	display: block;
+	margin: 0 1px; 
+}
+#main.nav li:after {
+    content: ".";
+    display: block;
+    height: 0;
+    clear: both;
+    visibility: hidden;
+}
+#main .nav .subnav {
+	z-index: 5000;
+}
+#main.nav .subnav li,
+#main.nav .subnav li a {
+	float: none;
+}
+#main.nav .press .subnav a {
+	margin: 0px 0;
+}
+#main.nav .team .subnav a {
+	margin: 0px 0;
+}
+
+#team .lineup li:hover {
+filter: alpha(opacity=90);
+}
+
+body {
+	behavior:url("csshover.htc");
+}
+#team .lineup li h4 {
+	background: #003D79;
+}
+
+#team .control {
+	position: absolute;
+	top: 23px;
+	right: -5px;
+}
+#side_nav a {
+	margin: 3px 0;
+}
+#side_nav li { height: 11px;}
+#side_nav li:hover {
+	background: url(/images/current.png) no-repeat 0px -9px;;
+}
+#team #side_nav #current {
+	background: url(/images/current.png) no-repeat 0px -9px;
+}
+#press #side_nav #current {	
+	background: url(/images/current.png) no-repeat 0px -9px;
+}
+#media #side_nav #current {
+	background: url(/images/current.png) no-repeat 0px -9px;
+}
+
+#contact .notice {
+	padding-top: 0px;
+}
+
+.header h3 {
+	left: 423px;
+}
+
+#media .headshots { margin-bottom: 50px;}
+#media .headshots .download {
+left: 0;
+}
+#media .headshots .download a {
+	background: #4C719B;
+	display: inline;
+	color: #ffffff;
+	text-align: center;
+	width: 153px;
+}
+#media .headshots .download a:link {
+	background: #4C719B;
+}
+#media .headshots .download a:visited {
+	background: #4C719B;
+}
+#media .headshots .download a:hover {
+	background: #4C719B;
+}
+#media .headshots .download a:active {
+	background: #4C719B;
+}

@@ -1,0 +1,15 @@
+BEGIN:VCARD
+VERSION:3.0
+PRODID:-//Apple Inc.//Mac OS X 10.11.6//EN
+N:Huggett;Nick;;;
+FN:Nick Huggett
+EMAIL;type=INTERNET;type=WORK;type=pref:nhuggett@davidbarrettpartners.com
+item1.TEL;type=pref:44 203 700 7409
+item1.X-ABLabel:general
+item2.ADR;type=WORK;type=pref:;;16 Old Queen Street;London;SW1H;9HP;England
+item2.X-ABADR:us
+item3.URL;type=pref:www.davidbarrettpartners.com
+item3.X-ABLabel:_$!<HomePage>!$_
+UID:69d23f2393c2ceb4
+X-ABUID:F602BB0B-1256-4263-A287-D2AA0D142F8E:ABPerson
+END:VCARD

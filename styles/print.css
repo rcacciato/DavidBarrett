@@ -1,0 +1,113 @@
+/* --- document --- */
+body { 
+	line-height: 15pt; 
+	font: normal 10pt Arial, Verdana sans-serif; 
+	margin: 36pt; 
+}
+img { 
+	border: none;
+}
+h2, h3, h4 { 
+	font-size: 14pt;
+	font-weight: normal;
+}
+a:link {
+	color: #003D79;
+	text-decoration: none;
+}
+a:visited {
+	color: #003D79;
+	text-decoration: none;
+}
+a:hover {
+	color: #4C719B;
+	text-decoration: underline;
+}
+a:active {
+	color: #4C719B;
+	text-decoration: none;
+}
+p {
+	line-height: 15pt;
+}
+li, ul {
+	padding: 0;
+	margin: 0;
+	list-style-type: none;
+	text-indent: 0;
+}
+
+/* --- hide nav --- */
+.nav { 
+	display: none; 
+}
+#practice { 
+	display: none; 
+}
+#side_nav { 
+	display: none;
+}
+#side_nav { 
+	display: none;
+}
+/* --- header --- */
+.location {
+	margin: 0; 
+	padding: 0; 
+}
+.location li { 
+	margin: 0; 
+	padding: 0; 
+	display: inline; 
+}
+
+/* --- pages --- */
+#slideshow .active {
+	opacity: 1.0;
+}
+#slideshow .last-active {
+	opacity: 1.0;	
+}
+#slideshow {
+
+}
+form { 
+	display: none;
+}
+#team .lineup {
+	list-style: none;
+}
+#team .lineup li {
+	float: left;
+	padding-right: 5pt;
+}
+#team .lineup li h4 {
+	font-size: 9pt;
+}
+
+#press #main.section ol {
+	margin: 0;
+	padding: 0;
+	text-indent: 0;
+}
+#press #main.section ul {
+	margin: 0;
+	padding: 0;
+	text-indent: 0;
+}
+#press_box h4 { 
+	font-size: 12pt;
+}
+
+.headshots {
+	list-style: none;
+}
+.headshots li {
+	float: left;
+	padding-right: 5pt;
+}
+
+.footer { 
+	clear: both;
+	margin: 20pt 0;
+}

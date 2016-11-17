@@ -1,0 +1,35 @@
+<?php $title='Jana Byrne | Biographies | '; $page_id="team"; $bio_id="jana"; include ('../../includes/header.php'); ?>
+	
+<div class="section" id="main">
+	
+	<div class="highlight">
+		<h2><img src="/images/jana.png" alt="Jana Byrne"></h2>
+	
+		<img class="photo" src="/images/bio_jana.jpg" alt="Jana Byrne Photo" />
+
+		<ul>
+			<li class="telephone">+1.310.279.6666</li>
+			<li class="vcard"><a href="/contact/vCards/Jana_Byrne.vcf">Download vCard</a></li>
+			<li class="inquire"><a href="/press_room/media_assets.php">Press Inquiries:</li>
+		</ul>
+	</div>
+	
+	<div class="control">
+		<p><a class="prev" href="/our_team/darryl_adachi/">Previous</a></p>
+		<p><a class="next" href="/our_team/marcus_hanbury/">Next</a></p>
+	</div>
+	
+	<div class="bio">
+		<p>Jana Byrne has 20 years of senior-level, financial services executive recruiting experience. In addition to conducting searches, Jana is the firm's chief knowledge officer. Prior to joining David Barrett Partners, Jana was Head of U.S. Research and Execution at a specialist wealth management search boutique where she executed searches for private banks and HNW and UHNW wealth management organizations.  Previously, Jana was a Director for five years with Global Sage, a financial markets executive search boutique, in their New York and London offices.  She helped establish the European buy-side practice which focused on hedge funds and sovereign wealth clients, and covered capital markets and investment banking assignments in both Europe and the U.S.  Jana began her search career at Armstrong International, a London-based executive search boutique specializing in investment banking and capital markets.  Jana joined Armstrong in 1991, and during her ten years with the firm helped build the equities practice and supported the development of the fixed income and investment banking platforms.</p>
+	</div>
+	
+	<div class="extra">
+		<!-- <img src="/images/extra_temp.jpg" alt="Jana Byrne Extracurricular" />
+				<p>Personal quote, thoughts, or photo caption here.</p> -->
+	</div>
+
+</div>
+
+<?php include ('../../includes/team_side_nav.php'); ?>
+
+<?php include ('../../includes/footer.php'); ?>

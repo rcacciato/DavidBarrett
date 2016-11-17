@@ -1,0 +1,12 @@
+BEGIN:VCARD
+VERSION:3.0
+N:Knapp;John;F.;;
+FN:John F. Knapp
+ORG:David Barrett Partners;
+EMAIL;type=INTERNET;type=WORK;type=pref:jknapp@davidbarrettpartners.com
+item1.TEL;type=pref:617-854-6575
+item1.X-ABLabel:general
+item2.ADR;type=WORK;type=pref:;;60 State Street\, Suite 737;Boston;MA;02109;United States
+item2.X-ABADR:us
+X-ABUID:0AE8C092-F95D-4E59-8EAC-C10331538220\:ABPerson
+END:VCARD

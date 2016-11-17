@@ -1,0 +1,13 @@
+BEGIN:VCARD
+VERSION:3.0
+N:Kister;Ted;;;
+FN:Ted Kister
+ORG:David Barrett Partners;
+EMAIL;type=INTERNET;type=WORK;type=pref:tkister@davidbarrettpartners.com
+item1.TEL;type=pref:212-710-8840
+item1.X-ABLabel:general
+item2.ADR;type=WORK;type=pref:;;230 Park Avenue\, Suite 450;New York;NY;10169;United States
+item2.X-ABADR:us
+CATEGORIES:David Barrett
+X-ABUID:2B293774-DA67-4352-B69D-881727CA8F29\:ABPerson
+END:VCARD

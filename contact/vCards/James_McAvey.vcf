@@ -1,0 +1,13 @@
+BEGIN:VCARD
+VERSION:3.0
+PRODID:-//Apple Inc.//Mac OS X 10.11.3//EN
+N:McAvey;James;;;
+FN:James McAvey
+ORG:David Barrett Partners;
+EMAIL;type=INTERNET;type=WORK;type=pref:jmcavey@davidbarrettpartners.com
+TEL;type=WORK;type=VOICE;type=pref:+1(212) 710-8840
+TEL;type=CELL;type=VOICE:+1 (203) 858-2054
+ADR;type=WORK;type=pref:;;230 Park Avenue\, Suite 450;New York;NY;10169;United States
+UID:292ee1251026a3f8
+X-ABUID:85396DD7-EFF6-4AD4-8D29-8258515AA73C:ABPerson
+END:VCARD

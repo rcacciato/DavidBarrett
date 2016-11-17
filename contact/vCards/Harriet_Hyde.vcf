@@ -1,0 +1,16 @@
+BEGIN:VCARD
+VERSION:3.0
+PRODID:-//Apple Inc.//Mac OS X 10.11.6//EN
+N:Hyde;Harriet;;;
+FN:Harriet Hyde
+ORG:David Barrett Partners;
+EMAIL;type=INTERNET;type=WORK;type=pref:hhyde@davidbarrettpartners.com
+item1.TEL;type=pref:442031705775
+item1.X-ABLabel:general
+item2.ADR;type=WORK;type=pref:;;16 Old Queen Street;London;SW1H;9HP;England
+item2.X-ABADR:us
+item3.URL;type=pref:www.davidbarrettpartners.com
+item3.X-ABLabel:_$!<HomePage>!$_
+UID:23d2533e148f07af
+X-ABUID:3C1EAA5F-7642-46E7-B70D-B215918653D1:ABPerson
+END:VCARD
