@@ -16,7 +16,7 @@
 	</p>
 
 	<div class="l_col">
-		
+			
 		<p>David Barrett Partners is a boutique retained executive search firm specializing exclusively in investment and wealth management recruiting.</p>  
 		<p>Founded in 2005, the firm has grown to a team of eleven consultants in New York, London, and Boston, who have over 150 years of combined global buy-side recruiting experience.  We partner closely with clients in recruiting exceptional senior leadership talent across all functional disciplines in the investment and wealth management marketplace.</p>
 		
